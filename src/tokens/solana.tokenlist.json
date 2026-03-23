@@ -1,9 +1,11 @@
-{
-  "chainId": 101,
-  "address": "8dMYYxGsXFmF27NQE2zfFry6GkKSkQLYDgQgcfDaRBQr",
-  "symbol": "BHT",
-  "name": "Blazon Hunt Token",
-  "decimals": 9,
-  "logoURI": "https://pub-5a7e0a738cef4f90b31b3c57c0d2c93d.r2.dev/token/bht.png",
-  "tags": ["utility-token"]
-}
+[
+  {
+    "chainId": 101,
+    "address": "8dMYYxGsXFmF27NQE2zfFry6GkKSkQLYDgQgcfDaRBQr",
+    "symbol": "BHT",
+    "name": "Blazon Hunt Token",
+    "decimals": 9,
+    "logoURI": "https://pub-5a7e0a738cef4f90b31b3c57c0d2c93d.r2.dev/token/bht.png",
+    "tags": ["utility-token"]
+  }
+]
